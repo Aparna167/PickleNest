@@ -1,4 +1,4 @@
-Suvas Homemade Pickles Webpage - 2024
+Aparneswari Homemade Pickles Webpage - 2024
 Developed a functional, fully responsive and atractive e-commerce website using
 frontend technologies. The frontend,
 built with HTML, CSS, and JS, offers a user-friendly
